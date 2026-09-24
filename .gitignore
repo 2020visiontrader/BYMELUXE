@@ -1,0 +1,30 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies/build output
+node_modules/
+dist/
+build/
+.cache/
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.crt
+config/*secret*
+config/*token*
+
+# Shopify/admin exports that may contain private customer/order data
+backup/customers/
+backup/orders/
+backup/private/
+
+# Local working copies
+.local/
+.tmp/
