@@ -1,0 +1,39 @@
+{
+  "source_store": {
+    "name": "BYME LUXE",
+    "myshopify_domain": "byme-luxe.myshopify.com",
+    "country": "Canada",
+    "currency": "CAD"
+  },
+  "destination_store": {
+    "myshopify_domain": "v2mbtb-qm.myshopify.com",
+    "current_name": "My Store 10",
+    "country": "Canada",
+    "currency": "CAD",
+    "status_note": "Destination store is connected for migration work; upgrade is needed before selling."
+  },
+  "theme_archive": {
+    "filename": "theme_export__byme-luxe-myshopify-com-horizon__23SEP2026-0803pm.zip",
+    "zip_size_bytes": 1345351,
+    "zip_sha256": "bdcea1c20e7b633faa137d4f661c24cb2b1e16cac5e662515d8265f35b77ac7a",
+    "theme_family": "Horizon",
+    "file_count": 490,
+    "top_level_counts": {
+      "assets": 125,
+      "blocks": 95,
+      "config": 2,
+      "layout": 2,
+      "locales": 57,
+      "sections": 49,
+      "snippets": 145,
+      "templates": 15
+    }
+  },
+  "backup_status": {
+    "github_repo": "2020visiontrader/BYMELUXE",
+    "github_visibility_seen_by_connector": "public",
+    "theme_zip_preserved_in_chat": true,
+    "full_theme_files_committed": false,
+    "note": "Switch repository to private before committing full store assets, media, or backups."
+  }
+}
